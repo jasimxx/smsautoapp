@@ -1,0 +1,6 @@
+{
+  "name": "SMS Withdraw Automation",
+  "description": "Automated MFS auto-withdraw rule builder and SMS trigger engine for bKash, Nagad, and Rocket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
